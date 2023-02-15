@@ -1,0 +1,3 @@
+- name: Create Disk Image
+  uses: Minionguyjpro/Create-Disk-Image@v1
+
